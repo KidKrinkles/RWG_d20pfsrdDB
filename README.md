@@ -1,2 +1,3 @@
-# MiniProject2RyanGreene
-For John Mick's Data Gathering &amp; Warehousing Class
+# d20pfsrd webscraper
+
+Establishes a queryable database from data on feats from d20pfsrd
